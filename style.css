@@ -5,6 +5,7 @@ section {
     border-style: solid;
     border-color: blueviolet;
     padding: 1em;
+    width: 50%;
     }
 #red-text {
     color: red;
@@ -15,12 +16,12 @@ section {
 #pink-text{
     color: deeppink;
 }
+#yellow-text{
+    color: yellow;
+}
 section.a{
     text-align: center;
 }
 section.b{
     text-align: right;
-}
-section.c{
-    text-align: justify;
 }
