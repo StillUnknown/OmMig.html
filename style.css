@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+}
+section {
+    border-style: solid;
+    border-color: blueviolet;
+    padding: 1em;
+    }
+#red-text {
+    color: red;
+}
+#green-text{
+    color: green;
+}
+#pink-text{
+    color: deeppink;
+}
+section.a{
+    text-align: center;
+}
+section.b{
+    text-align: right;
+}
+section.c{
+    text-align: justify;
+}
